@@ -52,6 +52,18 @@ Interactive dashboards were built directly in Snowflake using Snowsight to visua
 
 Screenshots can be found in the `dashboard/` folder.
 
+### Dashboard Overview
+![Dashboard Overview](dashboard/dashboard_overview.png)
+
+### Daily Revenue Trend
+![Daily Revenue Trend](dashboard/dashboard_daily_revenue.png)
+
+### Top Products by Revenue
+![Top Products by Revenue](dashboard/dashboard_top_products.png)
+
+### Revenue by Region
+![Revenue by Region](dashboard/dashboard_region.png)
+
 ## Skills Demonstrated
 - Data warehouse design
 - ELT pipeline development
